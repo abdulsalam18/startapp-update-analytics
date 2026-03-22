@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25160091033",
+    "project_id": "rebbit-bubble-1b427",
+    "storage_bucket": "rebbit-bubble-1b427.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25160091033:android:399f1947fc0f4d8c0c3f08",
+        "android_client_info": {
+          "package_name": "com.abdulsalam.rebbitbubble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxtJ2vgqFycC-eFnwK3QCles9-Dy-52E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

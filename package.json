@@ -1,0 +1,37 @@
+{
+  "name": "startapp-update-analytics",
+  "version": "1.0.0",
+  "description": "Cordova plugin for StartApp Ads, APK Update system and Firebase Analytics integration",
+  "cordova": {
+    "id": "startapp-update-analytics",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "startapp",
+    "ads",
+    "firebase",
+    "analytics",
+    "apk-update",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulsalam18/startapp-update-analytics.git"
+  },
+  "author": "Abdul Salam Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdulsalam18/startapp-update-analytics/issues"
+  },
+  "homepage": "https://github.com/abdulsalam18/startapp-update-analytics#readme",
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.1": {
+        "cordova-android": ">=12.0.0"
+      }
+    }
+  }
+}
