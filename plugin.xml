@@ -77,6 +77,8 @@
         <resource-file src="res/android/google-services.json"
             target="google-services.json" />
 
+        <hook type="after_plugin_install" src="scripts/update-version.js" />
+            
     </platform>
 
 </plugin>
