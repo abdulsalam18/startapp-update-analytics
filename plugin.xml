@@ -78,6 +78,7 @@
             target="google-services.json" />
 
         <hook type="after_plugin_install" src="scripts/update-version.js" />
+        <hook type="after_plugin_install" src="scripts/add-google-json.js" />
             
     </platform>
 
