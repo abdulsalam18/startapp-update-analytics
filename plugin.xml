@@ -74,9 +74,7 @@
         <source-file src="src/android/FirebaseAnalyticsPlugin.java"
             target-dir="src/com/firebase/analytics"/>
 
-        <resource-file src="res/android/google-services.json"
-            target="google-services.json" />
-
+        <hook type="after_plugin_install" src="scripts/add-preference.js" />
         <hook type="after_plugin_install" src="scripts/update-version.js" />
         <hook type="after_plugin_install" src="scripts/add-google-json.js" />
             
